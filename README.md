@@ -1,9 +1,14 @@
-# React + Vite
+# BookStore
 
-Enjoy the Free code + Assets 😍 
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+This is a BookStore web application built with React and Vite. It allows users to browse and order books online.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dark Mode**: Toggle between light and dark themes.
+- **Responsive Design**: Optimized for various screen sizes.
+- **Book Slider**: Display top books in a slider.
+- **Order Popup**: Users can place orders through a popup form.
+- **Testimonials**: Display customer testimonials.
+- **App Store Links**: Links to download the app from Play Store and App Store.
+
+## Project Structure
